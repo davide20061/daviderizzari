@@ -1,6 +1,11 @@
 package it.test;
 
 public class Rettangolo {
+	
+	public Rettangolo() {
+		
+	}
+	
 	public int calcoloArea(int base, int altezza) {
 		return base*altezza;
 	}
